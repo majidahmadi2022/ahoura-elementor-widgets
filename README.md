@@ -1,7 +1,7 @@
 # ahoura-elementor-widgets
 Ahoura Webdesign Agancy Elementor Widgets Free 
 
-#list widgets 
+# list widgets 
 1 - toggle menu with template submenu 
 
 
@@ -16,7 +16,7 @@ Ahoura Webdesign Agancy Elementor Widgets Free
 download and install same as all wordpress plugins
 Enjoy :)
 
-#requirement
+# requirement
 Elementor Plugin 
 
 
